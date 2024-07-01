@@ -57,5 +57,5 @@ Este podcast foi criado utilizando as seguintes ferramentas:
 - [Eleven Labs](https://www.eleven-labs.com)
 
 ## Como Ouvir
-Você pode ouvir o episódio[/AudioPodcast.mp3] diretamente neste repositório do GitHub.
+Você pode ouvir o [episódio](/AudioPodcast.mp3) diretamente neste repositório do GitHub.
 
